@@ -1,0 +1,6 @@
+{
+  "name": "Auralis — Enterprise AI Voice Infrastructure",
+  "description": "Ultra-low latency enterprise AI voice infrastructure, real-time telephony agent fleet, live audio workstation, and developer analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
